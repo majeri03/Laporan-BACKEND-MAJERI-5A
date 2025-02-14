@@ -480,7 +480,7 @@ Modul ini menjelaskan peran penting Controller dan Service dalam arsitektur apli
 
 
 
-### Laporan Autentikasi pada Proyek NestJS [3]
+# Autentikasi pada Proyek NestJS [3]
 
 #### 1. **Pengertian Authentication**
 Authentication adalah proses untuk memastikan identitas seseorang, aplikasi, atau sistem. Dalam konteks aplikasi, autentikasi berfungsi melindungi sumber daya dan data dari akses tidak sah. Autentikasi juga menjadi langkah pertama dalam sistem keamanan aplikasi modern.
