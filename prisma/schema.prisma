@@ -20,6 +20,7 @@ model Mahasiswa {
   kelas     String
   jurusan   String 
   jenis_kelamin  Jenis_kelamin
+  foto_profile String?
 
   dibuat_pada DateTime @default(now())
 }
@@ -29,6 +30,7 @@ model User {
   username String  @db.VarChar(50) @unique
   password String
   role     UserRole
+  foto_profile String?
 
   created_at DateTime @default(now())
 }
